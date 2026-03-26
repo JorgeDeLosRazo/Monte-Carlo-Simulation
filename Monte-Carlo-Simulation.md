@@ -78,10 +78,18 @@ Using the following code, histograms were generated for Req and RT
 <img src="images/Req-Histogram.png" width="100%" height="100%">
 <img src="images/RT-Histogram.png" width="100%" height="100%">
 
-|Key Statistical Values of $$R_T$$                                |
-|-----------------------------------------------------------------|
-|Mean ($\mu$) | Standard Deviation ($\sigma$) | Minimum | Maximum |
-|-------------|-------------------------------|---------|---------|
+$$
+\underline{Key Statistical Values of $R_T$}
+\begin{table}[hbt!]
+    \begin{tabular}{cccc}
+    \hline
+    \textbf{Mean} ($\mu$) & \textbf{Std. Deviation} ($\sigma$) & \textbf{Minimum} & \textbf{Maximum}\\
+    $53.3093$ & $0.9252$ & $  48.9645$ & $57.8524$\\
+    \hline
+    \end{tabular}
+    \caption{Key Statistical Values of Simulated $R_T$}
+\end{table}|
+$$
 
 The x-axis includes all the Req and RT values. The y-axis has the percentage of occurrence of particular Req and RT values. 
 
