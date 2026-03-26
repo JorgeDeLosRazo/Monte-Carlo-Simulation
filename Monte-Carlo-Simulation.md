@@ -52,6 +52,10 @@ $$
     \end{align*}
 $$
 
+## Histograms of RT and Req
+
+
+
 
 ## MATLAB Code
 
