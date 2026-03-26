@@ -22,7 +22,7 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 Resistors R1, R2, and R3 are in parallel with each other. Let’s call Req the total
 resistance due to R1, R2, and R3.
 
-```
+
 $$
 \begin{align*}
     R_{eq}  &= \left( \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} \right)^{-1}\\
@@ -30,7 +30,7 @@ $$
             &\approx33.33\Omega\\
     \end{align*}
 $$
-```
+
 
 
 ## MATLAB Code
