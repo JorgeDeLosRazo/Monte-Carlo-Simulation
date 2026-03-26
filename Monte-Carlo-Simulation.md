@@ -4,7 +4,7 @@ Components in a crcuit typically have a tolerance associated with them, and thes
 
 ## Circuit for Analysis
 
-The resistor network shown below has resistors R1, R2, R3, R4, which have normally distributed resistances
+The resistor network shown below has resistors R1, R2, R3, R4, which have normally distributed resistances. A battery V is also attached to the resistor network.
 
 
 <img src="Resistor-Network.png" width="60%" height="60%">
