@@ -10,7 +10,7 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 <img src="Resistor-Network.png" width="60%" height="60%">
 </p>
 
-| Resistor Name | Nominal Value | Mean ($\Mu$) | Standard Deviation ($\sigma$) |
+| Resistor Name | Nominal Value | Mean ($\mu$) | Standard Deviation ($\sigma$) |
 |---------------|---------------|------------|-----------------------------|
 |R1             |100$\Omega$    |100         |
 
