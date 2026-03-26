@@ -79,7 +79,7 @@ Using the following code, histograms were generated for Req and RT
 <img src="images/RT-Histogram.png" width="100%" height="100%">
 
 $$
-\underline{Key Statistical Values of RT}
+\underline{\text{Key Statistical Values of RT}}
 $$
 
 The x-axis includes all the Req and RT values. The y-axis has the percentage of occurrence of particular Req and RT values. 
