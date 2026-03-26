@@ -6,7 +6,7 @@ Components in a crcuit typically have a tolerance associated with them, and thes
 
 The resistor network shown below has resistors R1, R2, R3, R4, which have normally distributed resistances
 
-![](Resistor-Network.png){width=50% height=50%}
+![](Resistor-Network.png){width=150% height=150%}
 
 | Resistor Name | Nominal Value | Mean | Standard Deviation |
 |---------------|---------------|------|--------------------|
