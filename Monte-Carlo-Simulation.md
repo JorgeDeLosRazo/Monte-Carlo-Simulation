@@ -20,8 +20,9 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 
 ## MATLAB Code
 
-`>> N =1000000;`
-`>> R1 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;`
+```
+>> N =1000000;
+>> R1 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
 >> R2 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
 >> R3 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
 >> R4 = random ( ' norm ' ,20 ,2/3 ,[1 , N ]) ;
@@ -48,7 +49,8 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 >> min ( I )
 >> max ( I )
 >> prctile (I ,2.5)
->> prctile (I ,97.5)`
+>> prctile (I ,97.5)
+```
 
 
 
