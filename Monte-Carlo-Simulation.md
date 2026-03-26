@@ -80,14 +80,14 @@ Using the following code, histograms were generated for Req and RT
 
 $$
 \underline{Key Statistical Values of $R_T$}
-\begin{table}[hbt!]
+
     \begin{tabular}{cccc}
     \hline
     \textbf{Mean} ($\mu$) & \textbf{Std. Deviation} ($\sigma$) & \textbf{Minimum} & \textbf{Maximum}\\
     $53.3093$ & $0.9252$ & $  48.9645$ & $57.8524$\\
     \hline
     \end{tabular}
-\end{table}
+
 $$
 
 The x-axis includes all the Req and RT values. The y-axis has the percentage of occurrence of particular Req and RT values. 
