@@ -8,8 +8,8 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 
 <p align="center">
 <img src="Resistor-Network.png" width="60%" height="60%">
-</p>
 
 | Resistor Name | Nominal Value | Mean | Standard Deviation |
 |---------------|---------------|------|--------------------|
 |R1             |100&Omega
+</p>
