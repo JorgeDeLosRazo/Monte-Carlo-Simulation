@@ -53,7 +53,14 @@ $$
 $$
 
 ## Histograms of RT and Req
-
+Running the following code assigns R1, R2, R3, and R4 with 1x1000000 vectors filled with randomly generated values that are normally distributed
+```
+>> N =1000000;
+>> R1 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R2 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R3 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R4 = random ( ' norm ' ,20 ,2/3 ,[1 , N ]) ;
+```
 
 
 
