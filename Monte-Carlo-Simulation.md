@@ -7,7 +7,7 @@ Components in a crcuit typically have a tolerance associated with them, and thes
 The resistor network shown below has resistors R1, R2, R3, R4, which have normally distributed resistances. A battery V is also attached to the resistor network.
 
 
-<img src="images/Resistor-Network.png" width="100%" height="100%">
+<img src="images/Resistor-Network.png" width="60%" height="60%">
 
 
 | Parameter Name | Mean ($\mu$)   | Standard Deviation ($\sigma$) |
