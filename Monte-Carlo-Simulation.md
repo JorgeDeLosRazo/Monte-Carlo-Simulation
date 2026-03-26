@@ -32,6 +32,7 @@ $$
 $$
 
 The total resistance of the network is then
+
 $$
     \begin{align*}
     R_T  &=  R_{eq} + R_4\\
