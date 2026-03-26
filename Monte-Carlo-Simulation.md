@@ -69,6 +69,12 @@ Then vectors were generated for Req and RT using the following code
 >> RT = Req + R4 ;
 ```
 
+Using the following code, histograms for both Req and RT were generated
+```
+>> bins =20;
+>> histogram ( Req , bins , ' Normalization ' , ' pdf ')
+>> histogram ( RT , bins , ' Normalization ' , ' pdf ')
+```
 
 
 ## MATLAB Code
