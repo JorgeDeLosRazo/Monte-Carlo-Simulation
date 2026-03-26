@@ -88,7 +88,7 @@ $$
     \hline
     \end{tabular}
     \caption{Key Statistical Values of Simulated $R_T$}
-\end{table}|
+\end{table}
 $$
 
 The x-axis includes all the Req and RT values. The y-axis has the percentage of occurrence of particular Req and RT values. 
