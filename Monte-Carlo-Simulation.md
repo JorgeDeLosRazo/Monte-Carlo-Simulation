@@ -62,6 +62,13 @@ Running the following code assigns R1, R2, R3, and R4 with 1x1000000 vectors fil
 >> R4 = random ( ' norm ' ,20 ,2/3 ,[1 , N ]) ;
 ```
 
+Then vectors were generated for Req and RT using the following code
+```
+>> A =1./ R1 +1./ R2 +1./ R3 ;
+>> Req =1./ A ;
+>> RT = Req + R4 ;
+```
+
 
 
 ## MATLAB Code
