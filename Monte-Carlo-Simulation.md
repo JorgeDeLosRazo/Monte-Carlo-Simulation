@@ -41,6 +41,16 @@ $$
     \end{align*}
 $$
 
+## Theoretical I
+
+$$
+    \begin{align*}
+    I  &=  \frac{V}{R_T}\\
+       &= \frac{18V}{53.33\Omega}\\
+       &= 0.3375A\\
+    \end{align*}
+$$
+
 
 ## MATLAB Code
 
