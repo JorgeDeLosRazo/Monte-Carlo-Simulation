@@ -87,7 +87,6 @@ $$
     $53.3093$ & $0.9252$ & $  48.9645$ & $57.8524$\\
     \hline
     \end{tabular}
-    \caption{Key Statistical Values of Simulated $R_T$}
 \end{table}
 $$
 
