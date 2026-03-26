@@ -79,7 +79,7 @@ Using the following code, histograms were generated for Req and RT
 <img src="images/RT-Histogram.png" width="100%" height="100%">
 
 $$
-    \begin{tabular}{ |c|c|c|c| }
+    \begin{tabular}{|c|c|c|c|}
         \hline
         \textbf{Mean} ($\mu$) & \textbf{Std. Deviation} ($\sigma$) & \textbf{Minimum} & \textbf{Maximum}\\
         $53.3093$ & $0.9252$ & $  48.9645$ & $57.8524$\\
