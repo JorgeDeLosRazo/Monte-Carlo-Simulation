@@ -18,4 +18,38 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 |R4              |20&#937;        |2/3                            |
 |V               |18V             |1                              |
 
+## MATLAB Code
+
+`>> N =1000000;
+ >> R1 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R2 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R3 = random ( ' norm ' ,100 ,10/3 ,[1 , N ]) ;
+>> R4 = random ( ' norm ' ,20 ,2/3 ,[1 , N ]) ;
+>> A =1./ R1 +1./ R2 +1./ R3 ;
+>> Req =1./ A ;
+>> RT = Req + R4 ;
+>>
+>> prctile ( RT ,2.5)
+>> prctile ( RT ,97.5)
+>>
+>> % A histograms for Req and RT
+>> bins =20;
+>> histogram ( Req , bins , ' Normalization ' , ' pdf ')
+>> histogram ( RT , bins , ' Normalization ' , ' pdf ')
+>> mean ( RT )
+>> std ( RT )
+>> min ( RT )
+>> max ( RT )
+>>
+>> V = random ( ' norm ' ,18 ,1 ,[1 , N ]) ;
+>> I = V ./ RT ;
+>> mean ( I )
+>> std ( I )
+>> min ( I )
+>> max ( I )
+>> prctile (I ,2.5)
+>> prctile (I ,97.5)`
+
+
+
 
