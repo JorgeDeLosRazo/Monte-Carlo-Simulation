@@ -12,6 +12,6 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 
 | Resistor Name | Nominal Value | Mean ($\mu$) | Standard Deviation ($\sigma$) |
 |---------------|---------------|--------------|-------------------------------|
-|R1             |100$\Omega$    |100           |10/3                           |
+|R1             |100 $\Omega$    |100           |10/3                           |
 |R2
 
