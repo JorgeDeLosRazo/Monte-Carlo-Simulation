@@ -75,8 +75,8 @@ Using the following code, histograms for both Req and RT were generated
 >> histogram ( Req , bins , ' Normalization ' , ' pdf ')
 >> histogram ( RT , bins , ' Normalization ' , ' pdf ')
 ```
-<img src="images/Req-Histogram.png" width="80%" height="80%">
-<img src="images/RT-Histogram.png" width="80%" height="80%">
+<img src="images/Req-Histogram.png" width="100%" height="100%">
+<img src="images/RT-Histogram.png" width="100%" height="100%">
 
 
 ## MATLAB Code
