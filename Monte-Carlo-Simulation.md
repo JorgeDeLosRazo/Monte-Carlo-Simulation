@@ -31,6 +31,14 @@ $$
     \end{align*}
 $$
 
+The total resistance of the network is then
+$$
+    \begin{align*}
+    R_T  &=  R_{eq} + R_4\\
+         &= 33.33\Omega + 20\Omega\\
+         &\approx 53.33\Omega\\
+    \end{align*}
+$$
 
 
 ## MATLAB Code
