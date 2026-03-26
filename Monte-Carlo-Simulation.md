@@ -10,11 +10,12 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 <img src="Resistor-Network.png" width="60%" height="60%">
 </p>
 
-| Parameter Name | Mean ($\mu$) | Standard Deviation ($\sigma$) |
-|----------------|---------------|-------------------------------|
-|R1              |100&#937       |10/3                           |
-|R2              |100&#937       |10/3                           |
-|R3              |100&#937       |10/3                           |
-|R4              |20&#937        |2/3                            |
-|V               |18V            |1                              |
+| Parameter Name | Mean ($\mu$)   | Standard Deviation ($\sigma$) |
+|----------------|----------------|-------------------------------|
+|R1              |100&#937;       |10/3                           |
+|R2              |100&#937;       |10/3                           |
+|R3              |100&#937;       |10/3                           |
+|R4              |20&#937;        |2/3                            |
+|V               |18V             |1                              |
+
 
