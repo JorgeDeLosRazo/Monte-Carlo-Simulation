@@ -78,6 +78,7 @@ Using the following code, histograms were generated for Req and RT
 <img src="images/Req-Histogram.png" width="100%" height="100%">
 <img src="images/RT-Histogram.png" width="100%" height="100%">
 
+Running the following code we get some of the key statistical values of RT are the following
 | Mean ($\mu$) | Std. Deviation ($\sigma$) | Minimum       | Maximum     |
 |--------------|---------------------------|---------------|-------------|
 | 53.3093&#937;| 0.9252                    | 48.9645&#937; |57.8524&#937;|
