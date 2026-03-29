@@ -91,6 +91,19 @@ Running the following code we get some of the key statistical values of RT are t
 |--------------|---------------------------|---------------|-------------|
 | 53.3093&#937;| 0.9252                    | 48.9645&#937; |57.8524&#937;|
 
+## Histogram of Current Through Network I
+Running the following code assigns V with a 1x1000000 vector filled with randomly generated values that are normally distributed
+```
+ V = random ( ' norm ' ,18 ,1 ,[1 , N ]) ;
+```
+
+The vector for the curent through the network was given by the following code
+```
+I = V ./ RT ;
+```
+
+
+
 
 
 
