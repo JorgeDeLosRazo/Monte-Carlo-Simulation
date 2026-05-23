@@ -18,7 +18,7 @@ The resistor network shown below has resistors R1, R2, R3, R4, which have normal
 |R4              |20&#937;        |2/3                            |
 |V               |18V             |1                              |
 
-## Theoretical RT
+## Theoretical Total Resistance RT
 Resistors R1, R2, and R3 are in parallel with each other. Let’s call Req the total
 resistance due to R1, R2, and R3.
 
