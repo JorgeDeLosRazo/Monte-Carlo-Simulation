@@ -41,7 +41,7 @@ $$
     \end{align*}
 $$
 
-## Theoretical I
+## Theoretical Current I
 Since we already calculated the total resistance RT, we obtain the current through the resistor network using Ohm's Law
 
 $$
